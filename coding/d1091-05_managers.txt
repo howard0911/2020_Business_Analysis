@@ -1,0 +1,175 @@
+Salary	Years.of.Experience	Group	Group*Years	Sex	5.Years
+148	16.7	1	16.7	male	
+165	6.7	1	6.7	male	
+145	14.8	1	14.8	male	
+139	13.9	0	0	female	
+128	8.5	0	0	female	
+173	18.2	1	18.2	male	
+133	9.1	0	0	female	
+128	4.7	1	4.7	male	5
+154	11.5	1	11.5	male	
+121	8.5	0	0	female	
+150	22.4	1	22.4	male	
+149	12.2	1	12.2	male	
+145	11.8	1	11.8	male	
+145	12	1	12	male	
+149	5.7	1	5.7	male	5
+161	8	1	8	male	
+148	10	0	0	female	
+142	26.1	1	26.1	male	
+146	7.7	0	0	female	
+134	8.1	0	0	female	
+145	10.2	1	10.2	male	
+110	2.4	1	2.4	male	
+125	14.5	1	14.5	male	
+148	22.2	1	22.2	male	
+135	5.1	0	0	female	5
+159	11.2	1	11.2	male	
+153	5.9	0	0	female	5
+131	2.4	0	0	female	
+142	6.6	0	0	female	
+132	11	1	11	male	
+153	8.9	1	8.9	male	
+148	17	1	17	male	
+140	1.7	0	0	female	
+134	9.3	1	9.3	male	
+151	6.1	0	0	female	
+124	7.6	0	0	female	
+139	12.2	1	12.2	male	
+158	11.2	1	11.2	male	
+137	5.4	0	0	female	5
+143	14.2	1	14.2	male	
+142	11.7	1	11.7	male	
+129	11	0	0	female	
+142	4.1	0	0	female	5
+140	6	1	6	male	5
+145	15.4	1	15.4	male	
+133	7.2	1	7.2	male	
+146	5.5	0	0	female	5
+130	6.1	1	6.1	male	
+162	18.6	0	0	female	
+142	5	1	5	male	5
+137	5.8	0	0	female	5
+132	11.9	1	11.9	male	
+123	5.3	1	5.3	male	5
+138	4.3	1	4.3	male	5
+153	10.5	1	10.5	male	
+153	7.7	0	0	female	
+164	9.7	1	9.7	male	
+147	7.6	1	7.6	male	
+135	4.6	0	0	female	5
+153	16.2	1	16.2	male	
+134	3.3	0	0	female	
+166	6.3	0	0	female	
+128	7.7	1	7.7	male	
+147	3.9	1	3.9	male	
+138	9.9	0	0	female	
+152	5.6	1	5.6	male	5
+135	7.1	0	0	female	
+143	12.6	0	0	female	
+136	16	1	16	male	
+169	13.1	1	13.1	male	
+139	10.9	0	0	female	
+146	4.8	0	0	female	5
+133	3.6	0	0	female	
+141	8.9	1	8.9	male	
+159	12.9	0	0	female	
+151	12.5	1	12.5	male	
+162	9.6	0	0	female	
+137	6.3	0	0	female	
+155	14.2	1	14.2	male	
+135	7	1	7	male	
+145	4.3	0	0	female	5
+139	9.4	1	9.4	male	
+120	7.8	0	0	female	
+150	14.8	1	14.8	male	
+131	11.7	1	11.7	male	
+164	16.7	1	16.7	male	
+149	7.5	1	7.5	male	
+145	13.4	1	13.4	male	
+132	12	1	12	male	
+119	11.3	1	11.3	male	
+148	16.9	1	16.9	male	
+137	9.9	0	0	female	
+137	9.4	1	9.4	male	
+138	3.4	1	3.4	male	
+153	15.9	1	15.9	male	
+128	7.3	1	7.3	male	
+144	9.3	1	9.3	male	
+134	6.7	1	6.7	male	
+142	5.1	1	5.1	male	5
+146	12.6	0	0	female	
+162	14	1	14	male	
+171	11	1	11	male	
+135	7.2	0	0	female	
+133	15.1	1	15.1	male	
+125	8.3	1	8.3	male	
+157	11	1	11	male	
+120	11	1	11	male	
+145	13.5	1	13.5	male	
+141	10.3	1	10.3	male	
+144	7.3	1	7.3	male	
+138	7.7	0	0	female	
+155	16.2	1	16.2	male	
+128	6.6	1	6.6	male	
+145	22.7	1	22.7	male	
+138	8.3	0	0	female	
+126	22.2	1	22.2	male	
+146	8.7	0	0	female	
+150	10.9	1	10.9	male	
+118	4.1	0	0	female	5
+174	21.5	1	21.5	male	
+139	6.1	1	6.1	male	
+152	6.7	0	0	female	
+140	5.8	0	0	female	5
+159	8.5	1	8.5	male	
+137	13.2	0	0	female	
+156	9.5	1	9.5	male	
+172	8.4	0	0	female	
+133	6.6	1	6.6	male	
+152	11.7	1	11.7	male	
+150	15.3	1	15.3	male	
+118	4.3	0	0	female	5
+129	5.3	1	5.3	male	5
+147	7.1	1	7.1	male	
+165	11.7	1	11.7	male	
+141	10.3	1	10.3	male	
+149	21.8	1	21.8	male	
+148	9.5	0	0	female	
+150	11.9	1	11.9	male	
+152	25.3	1	25.3	male	
+129	8.5	0	0	female	
+141	18.3	1	18.3	male	
+149	6.8	0	0	female	
+124	10.5	1	10.5	male	
+154	14.8	1	14.8	male	
+132	11.9	1	11.9	male	
+148	16.2	1	16.2	male	
+139	11.6	1	11.6	male	
+161	22.5	1	22.5	male	
+139	12.5	1	12.5	male	
+163	21.7	0	0	female	
+162	10.1	1	10.1	male	
+155	9	1	9	male	
+157	13	1	13	male	
+131	4.2	0	0	female	5
+143	8.2	1	8.2	male	
+151	4.7	0	0	female	5
+140	8	0	0	female	
+145	9	1	9	male	
+119	11.8	1	11.8	male	
+143	7.8	0	0	female	
+151	20.8	1	20.8	male	
+132	13.5	1	13.5	male	
+129	13.4	0	0	female	
+129	21.1	1	21.1	male	
+165	21.4	1	21.4	male	
+120	2.1	0	0	female	
+133	12	1	12	male	
+147	13.8	1	13.8	male	
+127	2.3	0	0	female	
+132	4.6	0	0	female	5
+146	8.9	1	8.9	male	
+147	8.8	1	8.8	male	
+156	15.1	1	15.1	male	
+161	16.5	1	16.5	male	

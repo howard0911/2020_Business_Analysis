@@ -1,0 +1,5 @@
+Response	Sex	Drug
+2	M	A
+1	F	A
+1	M	B
+2	F	B

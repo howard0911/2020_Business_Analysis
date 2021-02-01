@@ -1,0 +1,408 @@
+id	name	price	cost	Y	Yalternate	X1	X2	X3	X4	X5	type	D6	D7	D8	D9	D10	drive	D11	D12
+1	Chevrolet Aveo 4dr	11690	10965	28	34	2.37	1.03	1.6	4	.98	sedan	0	0	0	0	0	fwd	0	0
+2	Chevrolet Aveo LS 4dr hatch	12585	11802	28	34	2.348	1.03	1.6	4	.98	sedan	0	0	0	0	0	fwd	0	0
+3	Chevrolet Cavalier 2dr	14610	13697	26	37	2.617	1.4	2.2	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+4	Chevrolet Cavalier 4dr	14810	13884	26	37	2.676	1.4	2.2	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+5	Chevrolet Cavalier LS 2dr	16385	15357	26	37	2.617	1.4	2.2	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+6	Dodge Neon SE 4dr	13670	12849	29	36	2.581	1.32	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+7	Dodge Neon SXT 4dr	15040	14086	29	36	2.626	1.32	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+8	Ford Focus ZX3 2dr hatch	13270	12482	26	33	2.612	1.3	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+9	Ford Focus LX 4dr	13730	12906	27	36	2.606	1.1	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+10	Ford Focus SE 4dr	15460	14496	26	33	2.606	1.3	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+11	Ford Focus ZX5 5dr	15580	14607	26	33	2.691	1.3	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+12	Honda Civic DX 2dr	13270	12175	32	38	2.432	1.15	1.7	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+13	Honda Civic HX 2dr	14170	12996	36	44	2.5	1.17	1.7	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+14	Honda Civic LX 4dr	15850	14531	32	38	2.513	1.15	1.7	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+15	Hyundai Accent 2dr hatch	10539	10107	29	33	2.255	1.03	1.6	4	.96	sedan	0	0	0	0	0	fwd	0	0
+16	Hyundai Accent GL 4dr	11839	11116	29	33	2.29	1.03	1.6	4	.96	sedan	0	0	0	0	0	fwd	0	0
+17	Hyundai Accent GT 2dr hatch	11939	11209	29	33	2.339	1.03	1.6	4	.96	sedan	0	0	0	0	0	fwd	0	0
+18	Hyundai Elantra GLS 4dr	13839	12781	26	34	2.635	1.38	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+19	Hyundai Elantra GT 4dr	15389	14207	26	34	2.635	1.38	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+20	Hyundai Elantra GT 4dr hatch	15389	14207	26	34	2.698	1.38	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+21	Kia Optima LX 4dr	16040	14910	23	30	3.281	1.38	2.4	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+22	Kia Rio 4dr manual	10280	9875	26	33	2.403	1.04	1.6	4	.95	sedan	0	0	0	0	0	fwd	0	0
+23	Kia Rio 4dr auto	11155	10705	25	32	2.458	1.04	1.6	4	.95	sedan	0	0	0	0	0	fwd	0	0
+24	Kia Spectra 4dr	12360	11630	24	32	2.661	1.24	1.8	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+25	Kia Spectra GS 4dr hatch	13580	12830	24	32	2.686	1.24	1.8	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+26	Kia Spectra GSX 4dr hatch	14630	13790	24	32	2.697	1.24	1.8	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+27	Mini Cooper	16999	15437	28	37	2.524	1.15	1.6	4	.97	sedan	0	0	0	0	0	fwd	0	0
+28	Nissan Sentra 1.8 4dr	12740	12205	28	35	2.513	1.26	1.8	4	1	sedan	0	0	0	0	0	fwd	0	0
+29	Nissan Sentra 1.8 S 4dr	14740	13747	28	35	2.581	1.26	1.8	4	1	sedan	0	0	0	0	0	fwd	0	0
+30	Pontiac Sunfire 1SA 2dr	15495	14375	24	33	2.771	1.4	2.2	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+31	Saturn Ion1 4dr	10995	10319	26	35	2.692	1.4	2.2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+32	Saturn Ion2 4dr	14300	13393	26	35	2.692	1.4	2.2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+33	Saturn Ion3 4dr	15825	14811	26	35	2.692	1.4	2.2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+34	Saturn Ion2 quad coupe 2dr	14850	13904	26	35	2.751	1.4	2.2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+35	Saturn Ion3 quad coupe 2dr	16350	15299	26	35	2.751	1.4	2.2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+36	Scion xA 4dr hatch	12965	12340	32	38	2.34	1.08	1.5	4	.93	sedan	0	0	0	0	0	fwd	0	0
+37	Suzuki Aerio S 4dr	12884	12719	25	31	2.676	1.55	2.3	4	.98	sedan	0	0	0	0	0	fwd	0	0
+38	Suzuki Aerio LX 4dr	14500	14317	25	31	2.676	1.55	2.3	4	.98	sedan	0	0	0	0	0	fwd	0	0
+39	Suzuki Forenza S 4dr	12269	12116	24	31	2.701	1.19	2	4	1.02	sedan	0	0	0	0	0	fwd	0	0
+40	Suzuki Forenza EX 4dr	15568	15378	22	30	2.756	1.19	2	4	1.02	sedan	0	0	0	0	0	fwd	0	0
+41	Toyota Corolla CE 4dr	14085	13065	32	40	2.502	1.3	1.8	4	1.02	sedan	0	0	0	0	0	fwd	0	0
+42	Toyota Corolla S 4dr	15030	13650	32	40	2.524	1.3	1.8	4	1.02	sedan	0	0	0	0	0	fwd	0	0
+43	Toyota Corolla LE 4dr	15295	13889	32	40	2.524	1.3	1.8	4	1.02	sedan	0	0	0	0	0	fwd	0	0
+44	Toyota Echo 2dr manual	10760	10144	35	43	2.035	1.08	1.5	4	.93	sedan	0	0	0	0	0	fwd	0	0
+45	Toyota Echo 2dr auto	11560	10896	33	39	2.085	1.08	1.5	4	.93	sedan	0	0	0	0	0	fwd	0	0
+46	Toyota Echo 4dr	11290	10642	35	43	2.055	1.08	1.5	4	.93	sedan	0	0	0	0	0	fwd	0	0
+47	Buick Century Custom 4dr	22180	20351	20	30	3.353	1.75	3.1	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+48	Chevrolet Impala 4dr	21900	20095	21	32	3.465	1.8	3.4	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+49	Chevrolet Malibu 4dr	18995	17434	24	34	3.174	1.45	2.2	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+50	Chevrolet Malibu LS 4dr	20370	18639	22	30	3.297	2	3.5	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+51	Chevrolet Monte Carlo LS 2dr	21825	20026	21	32	3.34	1.8	3.4	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+52	Chrysler PT Cruiser 4dr	17985	16919	22	29	3.101	1.5	2.4	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+53	Chrysler PT Cruiser Limited 4dr	22000	20573	22	29	3.105	1.5	2.4	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+54	Chrysler Sebring 4dr	19090	17805	22	30	3.173	1.5	2.4	4	1.08	sedan	0	0	0	0	0	fwd	0	0
+55	Chrysler Sebring Touring 4dr	21840	20284	21	28	3.222	2	2.7	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+56	Dodge Intrepid SE 4dr	22035	20502	21	29	3.469	2	2.7	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+57	Dodge Stratus SXT 4dr	18820	17512	21	28	3.182	1.5	2.4	4	1.08	sedan	0	0	0	0	0	fwd	0	0
+58	Dodge Stratus SE 4dr	20220	18821	21	28	3.175	1.5	2.4	4	1.08	sedan	0	0	0	0	0	fwd	0	0
+59	Ford Focus SVT 2dr	19135	17878	21	28	2.75	1.7	2	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+60	Ford Taurus LX 4dr	20320	18881	20	27	3.306	1.55	3	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+61	Ford Taurus SES Duratec 4dr	22735	20857	19	26	3.313	2.01	3	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+62	Honda Accord LX 2dr	19860	17924	26	34	2.994	1.6	2.4	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+63	Honda Accord EX 2dr	22260	20080	26	34	3.047	1.6	2.4	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+64	Honda Civic EX 4dr	17750	16265	32	37	2.601	1.27	1.7	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+65	Honda Civic Si 2dr hatch	19490	17849	26	30	2.782	1.6	2	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+66	Hyundai Sonata GLS 4dr	19339	17574	19	27	3.217	1.7	2.7	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+67	Hyundai Sonata LX 4dr	20339	18380	19	27	3.217	1.7	2.7	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+68	Kia Optima LX V6 4dr	18435	16850	20	27	3.279	1.7	2.7	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+69	Mazda 6i 4dr	19270	17817	24	32	3.042	1.6	2.3	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+70	Mercury Sable GS 4dr	21595	19848	20	27	3.308	1.55	3	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+71	Mini Cooper S	19999	18137	25	34	2.678	1.63	1.6	4	.97	sedan	0	0	0	0	0	fwd	0	0
+72	Nissan Altima S 4dr	19240	18030	21	26	3.039	1.75	2.5	4	1.1	sedan	0	0	0	0	0	fwd	0	0
+73	Nissan Sentra SE-R 4dr	17640	16444	23	28	2.761	1.65	2.5	4	1	sedan	0	0	0	0	0	fwd	0	0
+74	Oldsmobile Alero GX 2dr	18825	17642	24	32	2.946	1.4	2.2	4	1.07	sedan	0	0	0	0	0	fwd	0	0
+75	Pontiac Grand Am GT 2dr	22450	20595	20	29	3.118	1.75	3.4	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+76	Pontiac Grand Prix GT1 4dr	22395	20545	20	30	3.477	2	3.8	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+77	Pontiac Sunfire 1SC 2dr	17735	16369	24	33	2.771	1.4	2.2	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+78	Saturn L300-2 4dr	21410	19801	20	28	3.197	1.82	3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+79	Subaru Impreza 2.5 RS 4dr	19945	18399	22	28	2.965	1.65	2.5	4	.99	sedan	0	0	0	0	0	awd	1	0
+80	Subaru Legacy L 4dr	20445	18713	21	28	3.285	1.65	2.5	4	1.04	sedan	0	0	0	0	0	awd	1	0
+81	Suzuki Verona LX 4dr	17262	17053	20	27	3.38	1.55	2.5	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+82	Toyota Camry LE 4dr	19560	17558	24	33	3.086	1.57	2.4	4	1.07	sedan	0	0	0	0	0	fwd	0	0
+83	Toyota Camry LE V6 4dr	22775	20325	21	29	3.296	2.1	3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+84	Toyota Camry Solara SE 2dr	19635	17722	24	33	3.175	1.57	2.4	4	1.07	sedan	0	0	0	0	0	fwd	0	0
+85	Toyota Camry Solara SE V6 2dr	21965	19819	20	29	3.417	2.25	3.3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+86	Volkswagen Golf GLS 4dr	18715	17478	24	31	2.897	1.15	2	4	.99	sedan	0	0	0	0	0	fwd	0	0
+87	Volkswagen GTI 1.8T 2dr hatch	19825	18109	24	31	2.934	1.8	1.8	4	.99	sedan	0	0	0	0	0	fwd	0	0
+88	Volkswagen Jetta GLS TDI 4dr	21055	19638	38	46	3.003	1	1.9	4	.99	sedan	0	0	0	0	0	fwd	0	0
+89	Volkswagen New Beetle GLS 1.8T 2dr	21055	19638	24	31	2.82	1.5	1.8	4	.99	sedan	0	0	0	0	0	fwd	0	0
+90	Acura RSX Type S 2dr	23820	21761	24	31	2.778	2	2	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+91	Acura TSX 4dr	26990	24647	22	29	3.23	2	2.4	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+92	Audi A4 1.8T 4dr	25940	23508	22	31	3.252	1.7	1.8	4	1.04	sedan	0	0	0	0	0	fwd	0	0
+93	BMW 325i 4dr	28495	26155	20	29	3.219	1.84	2.5	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+94	Buick LeSabre Custom 4dr	26470	24282	20	29	3.567	2.05	3.8	6	1.12	sedan	0	0	0	0	0	fwd	0	0
+95	Buick Regal LS 4dr	24895	22835	20	30	3.461	2	3.8	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+96	Buick Regal GS 4dr	28345	26047	18	28	3.536	2.4	3.8	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+97	Chevrolet Impala LS 4dr	25000	22931	20	30	3.476	2	3.8	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+98	Chevrolet Impala SS 4dr	27995	25672	18	28	3.606	2.4	3.8	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+99	Chevrolet Malibu LT 4dr	23495	21551	23	32	3.315	2	3.5	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+100	Chevrolet Monte Carlo SS 2dr	24225	22222	18	28	3.434	2	3.8	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+101	Chrysler 300M 4dr	29865	27797	18	27	3.581	2.5	3.5	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+102	Chrysler Concorde LX 4dr	24130	22452	21	29	3.479	2	2.7	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+103	Chrysler Concorde LXi 4dr	26860	24909	19	27	3.548	2.32	3.5	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+104	Chrysler PT Cruiser GT 4dr	25955	24172	21	27	3.217	2.2	2.4	4	1.03	sedan	0	0	0	0	0	fwd	0	0
+105	Chrysler Sebring convertible 2dr	25215	23451	22	30	3.357	1.5	2.4	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+106	Dodge Intrepid ES 4dr	24885	23058	18	27	3.487	2.32	3.5	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+107	Ford Crown Victoria 4dr	24345	22856	17	25	4.057	2.24	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+108	Ford Crown Victoria LX 4dr	27370	25105	17	25	4.057	2.24	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+109	Honda Accord LX V6 4dr	23760	21428	21	30	3.349	2.4	3	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+110	Honda Accord EX V6 2dr	26960	24304	21	30	3.294	2.4	3	6	1.05	sedan	0	0	0	0	0	fwd	0	0
+111	Hyundai XG350 4dr	24589	22055	17	26	3.651	1.94	3.5	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+112	Hyundai XG350 L 4dr	26189	23486	17	26	3.651	1.94	3.5	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+113	Infiniti G35 4dr	28495	26157	18	26	3.336	2.6	3.5	6	1.12	sedan	0	0	0	0	0	rwd	0	1
+114	Infiniti G35 Sport Coupe 2dr	29795	27536	18	26	3.416	2.8	3.5	6	1.12	sedan	0	0	0	0	0	rwd	0	1
+115	Jaguar X-Type 2.5 4dr	29995	27355	18	26	3.428	1.92	2.5	6	1.07	sedan	0	0	0	0	0	awd	1	0
+116	Mercedes-Benz C230 Sport 2dr	26060	24249	22	30	3.25	1.89	1.8	4	1.07	sedan	0	0	0	0	0	rwd	0	1
+117	Mercedes-Benz C320 Sport 2dr	28370	26435	19	26	3.43	2.15	3.2	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+118	Mercury Grand Marquis GS 4dr	24695	23217	17	25	4.052	2.24	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+119	Mercury Grand Marquis LS Premium 4dr	29595	27148	17	25	4.052	2.24	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+120	Mercury Sable LS Premium 4dr	23895	21918	19	26	3.315	2.01	3	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+121	Mitsubishi Diamante LS 4dr	29282	27250	18	25	3.549	2.05	3.5	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+122	Mitsubishi Galant GTS 4dr	25700	23883	18	26	3.649	2.3	3.8	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+123	Nissan Altima SE 4dr	23290	21580	21	26	3.197	2.45	3.5	6	1.1	sedan	0	0	0	0	0	fwd	0	0
+124	Nissan Maxima SE 4dr	27490	25182	20	28	3.473	2.65	3.5	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+125	Nissan Maxima SL 4dr	29440	26966	20	28	3.476	2.65	3.5	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+126	Oldsmobile Alero GLS 2dr	23675	21485	20	29	3.085	1.7	3.4	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+127	Pontiac Grand Prix GT2 4dr	24295	22284	20	30	3.484	2	3.8	6	1.11	sedan	0	0	0	0	0	fwd	0	0
+128	Subaru Legacy GT 4dr	25645	23336	21	28	3.395	1.65	2.5	4	1.04	sedan	0	0	0	0	0	awd	1	0
+129	Subaru Outback Limited Sedan 4dr	27145	24687	20	27	3.495	1.65	2.5	4	1.04	sedan	0	0	0	0	0	awd	1	0
+130	Subaru Outback H6 4dr	29345	26660	19	26	3.61	2.12	3	6	1.04	sedan	0	0	0	0	0	awd	1	0
+131	Toyota Avalon XL 4dr	26560	23693	21	29	3.417	2.1	3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+132	Toyota Camry XLE V6 4dr	25920	23125	21	29	3.362	2.1	3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+133	Toyota Camry Solara SLE V6 2dr	26510	23908	20	29	3.439	2.25	3.3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+134	Volkswagen Jetta GLI VR6 4dr	23785	21686	21	30	3.179	2	2.8	6	.99	sedan	0	0	0	0	0	fwd	0	0
+135	Volkswagen New Beetle GLS convertible 2dr	23215	21689	24	30	3.082	1.15	2	4	.99	sedan	0	0	0	0	0	fwd	0	0
+136	Volkswagen Passat GLS 4dr	23955	21898	22	31	3.241	1.7	1.8	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+137	Volvo S40 4dr	25135	23701	22	29	2.767	1.7	1.9	4	1.01	sedan	0	0	0	0	0	fwd	0	0
+138	Acura TL 4dr	33195	30299	20	28	3.575	2.7	3.2	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+139	Audi A4 1.8T convertible 2dr	35940	32506	23	30	3.638	1.7	1.8	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+140	Audi A4 3.0 4dr	31840	28846	20	28	3.462	2.2	3	6	1.04	sedan	0	0	0	0	0	fwd	0	0
+141	Audi A4 3.0 Quattro 4dr manual	33430	30366	17	26	3.583	2.2	3	6	1.04	sedan	0	0	0	0	0	awd	1	0
+142	Audi A4 3.0 Quattro 4dr auto	34480	31388	18	25	3.627	2.2	3	6	1.04	sedan	0	0	0	0	0	awd	1	0
+143	Audi A6 3.0 4dr	36640	33129	20	27	3.561	2.2	3	6	1.09	sedan	0	0	0	0	0	fwd	0	0
+144	Audi A6 3.0 Quattro 4dr	39640	35992	18	25	3.88	2.2	3	6	1.09	sedan	0	0	0	0	0	awd	1	0
+145	BMW 325Ci 2dr	30795	28245	20	29	3.197	1.84	2.5	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+146	BMW 325Ci convertible 2dr	37995	34800	19	27	3.56	1.84	2.5	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+147	BMW 325xi 4dr	30245	27745	19	27	3.461	1.84	2.5	6	1.07	sedan	0	0	0	0	0	awd	1	0
+148	BMW 330i 4dr	35495	32525	20	30	3.285	2.25	3	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+149	BMW 330Ci 2dr	36995	33890	20	30	3.285	2.25	3	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+150	BMW 330xi 4dr	37245	34115	20	29	3.483	2.25	3	6	1.07	sedan	0	0	0	0	0	awd	1	0
+151	BMW 525i 4dr	39995	36620	19	28	3.428	1.84	2.5	6	1.14	sedan	0	0	0	0	0	rwd	0	1
+152	Buick LeSabre Limited 4dr	32245	29566	20	29	3.591	2.05	3.8	6	1.12	sedan	0	0	0	0	0	fwd	0	0
+153	Buick Park Avenue 4dr	35545	32244	20	29	3.778	2.05	3.8	6	1.14	sedan	0	0	0	0	0	fwd	0	0
+154	Cadillac CTS VVT 4dr	30835	28575	18	25	3.694	2.55	3.6	6	1.13	sedan	0	0	0	0	0	rwd	0	1
+155	Chrysler 300M Special Edition 4dr	33295	30884	18	27	3.65	2.55	3.5	6	1.13	sedan	0	0	0	0	0	fwd	0	0
+156	Chrysler Sebring Limited convertible 2dr	30950	28613	21	28	3.448	2	2.7	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+157	Ford Crown Victoria LX Sport 4dr	30315	27756	17	25	4.057	2.39	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+158	Infiniti G35 4dr	32445	29783	18	26	3.677	2.6	3.5	6	1.12	sedan	0	0	0	0	0	awd	1	0
+159	Infiniti I35 4dr	31145	28320	19	26	3.306	2.55	3.5	6	1.08	sedan	0	0	0	0	0	fwd	0	0
+160	Jaguar X-Type 3.0 4dr	33995	30995	18	25	3.516	2.27	3	6	1.07	sedan	0	0	0	0	0	awd	1	0
+161	Lexus ES 330 4dr	32350	28755	20	29	3.46	2.25	3.3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+162	Lexus IS 300 4dr manual	31045	27404	18	25	3.255	2.15	3	6	1.05	sedan	0	0	0	0	0	rwd	0	1
+163	Lexus IS 300 4dr auto	32415	28611	18	24	3.285	2.15	3	6	1.05	sedan	0	0	0	0	0	rwd	0	1
+164	Lincoln LS V6 Luxury 4dr	32495	29969	20	26	3.681	2.32	3	6	1.15	sedan	0	0	0	0	0	rwd	0	1
+165	Lincoln LS V6 Premium 4dr	36895	33929	20	26	3.681	2.32	3	6	1.15	sedan	0	0	0	0	0	rwd	0	1
+166	Mercedes-Benz C240 4dr	32280	30071	20	25	3.36	1.68	2.6	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+167	Mercedes-Benz C240 4dr	33480	31187	19	25	3.36	1.68	2.6	6	1.07	sedan	0	0	0	0	0	awd	1	0
+168	Mercedes-Benz C320 Sport 4dr	35920	33456	19	26	3.43	2.15	3.2	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+169	Mercedes-Benz C320 4dr	37630	35046	20	26	3.45	2.15	3.2	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+170	Mercury Grand Marquis LS Ultimate 4dr	30895	28318	17	25	4.052	2.24	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+171	Mercury Marauder 4dr	34495	31558	17	23	4.195	3.02	4.6	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+172	Saab 9-3 Arc Sport 4dr	30860	29269	20	28	3.175	2.1	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+173	Saab 9-3 Aero 4dr	33360	31562	20	28	3.175	2.1	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+174	Saab 9-5 Arc 4dr	35105	33011	21	29	3.47	2.2	2.3	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+175	Saab 9-5 Aero 4dr	39465	37721	21	29	3.47	2.5	2.3	4	1.06	sedan	0	0	0	0	0	fwd	0	0
+176	Subaru Outback H-6 VDC 4dr	31545	28603	19	26	3.63	2.12	3	6	1.04	sedan	0	0	0	0	0	awd	1	0
+177	Toyota Avalon XLS 4dr	30920	27271	21	29	3.439	2.1	3	6	1.07	sedan	0	0	0	0	0	fwd	0	0
+178	Volkswagen Passat GLX V6 4MOTION 4dr	33180	30583	19	26	3.721	1.9	2.8	6	1.06	sedan	0	0	0	0	0	fwd	0	0
+179	Volkswagen Passat W8 4MOTION 4dr	39235	36052	18	25	3.953	2.7	4	8	1.06	sedan	0	0	0	0	0	fwd	0	0
+180	Volvo S60 2.5 4dr	31745	29916	20	27	3.903	2.08	2.5	5	1.07	sedan	0	0	0	0	0	awd	1	0
+181	Volvo S60 T5 4dr	34845	32902	20	28	3.766	2.47	2.3	5	1.07	sedan	0	0	0	0	0	fwd	0	0
+182	Volvo S60 R 4dr	37560	35382	18	25	3.571	3	2.5	5	1.07	sedan	0	0	0	0	0	awd	1	0
+183	Volvo S80 2.9 4dr	37730	35542	20	28	3.576	2.08	2.9	6	1.1	sedan	0	0	0	0	0	fwd	0	0
+184	Volvo S80 2.5T 4dr	37885	35688	20	27	3.691	1.94	2.5	5	1.1	sedan	0	0	0	0	0	awd	1	0
+185	Acura 3.5 RL 4dr	43755	39014	18	24	3.88	2.25	3.5	6	1.15	sedan	0	0	0	0	0	fwd	0	0
+186	Acura 3.5 RL w/Navigation 4dr	46100	41100	18	24	3.893	2.25	3.5	6	1.15	sedan	0	0	0	0	0	fwd	0	0
+187	Audi A4 3.0 convertible 2dr	42490	38325	20	27	3.814	2.2	3	6	1.05	sedan	0	0	0	0	0	fwd	0	0
+188	Audi A4 3.0 Quattro convertible 2dr	44240	40075	18	25	4.013	2.2	3	6	1.05	sedan	0	0	0	0	0	awd	1	0
+189	Audi A6 2.7 Turbo Quattro 4dr	42840	38840	18	25	3.836	2.5	2.7	6	1.09	sedan	0	0	0	0	0	awd	1	0
+190	Audi A6 4.2 Quattro 4dr	49690	44936	17	24	4.024	3	4.2	8	1.09	sedan	0	0	0	0	0	awd	1	0
+191	Audi A8 L Quattro 4dr	69190	64740	17	24	4.399	3.3	4.2	8	1.21	sedan	0	0	0	0	0	awd	1	0
+192	Audi S4 Quattro 4dr	48040	43556	14	20	3.825	3.4	4.2	8	1.04	sedan	0	0	0	0	0	awd	1	0
+193	BMW 330Ci convertible 2dr	44295	40530	19	28	3.616	2.25	3	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+194	BMW 530i 4dr	44995	41170	20	30	3.472	2.25	3	6	1.14	sedan	0	0	0	0	0	rwd	0	1
+195	BMW 545iA 4dr	54995	50270	18	26	3.814	3.25	4.4	8	1.14	sedan	0	0	0	0	0	rwd	0	1
+196	BMW 745i 4dr	69195	63190	18	26	4.376	3.25	4.4	8	1.18	sedan	0	0	0	0	0	rwd	0	1
+197	BMW 745Li 4dr	73195	66830	18	26	4.464	3.25	4.4	8	1.23	sedan	0	0	0	0	0	rwd	0	1
+198	Buick Park Avenue Ultra 4dr	40720	36927	18	28	3.909	2.4	3.8	6	1.14	sedan	0	0	0	0	0	fwd	0	0
+199	Cadillac Deville 4dr	45445	41650	18	26	3.984	2.75	4.6	8	1.15	sedan	0	0	0	0	0	fwd	0	0
+200	Cadillac Deville DTS 4dr	50595	46362	18	26	4.044	3	4.6	8	1.15	sedan	0	0	0	0	0	fwd	0	0
+201	Cadillac Seville SLS 4dr	47955	43841	18	26	3.992	2.75	4.6	8	1.12	sedan	0	0	0	0	0	fwd	0	0
+202	Infiniti M45 4dr	42845	38792	17	23	3.851	3.4	4.5	8	1.1	sedan	0	0	0	0	0	rwd	0	1
+203	Infiniti Q45 Luxury 4dr	52545	47575	17	23	3.977	3.4	4.5	8	1.13	sedan	0	0	0	0	0	rwd	0	1
+204	Jaguar S-Type 3.0 4dr	43895	40004	18	26	3.777	2.35	3	6	1.15	sedan	0	0	0	0	0	rwd	0	1
+205	Jaguar S-Type 4.2 4dr	49995	45556	18	28	3.874	2.94	4.2	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+206	Jaguar S-Type R 4dr	63120	57499	17	24	4.046	3.9	4.2	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+207	Jaguar Vanden Plas 4dr	68995	62846	18	28	3.803	2.94	4.2	8	1.19	sedan	0	0	0	0	0	rwd	0	1
+208	Jaguar XJ8 4dr	59995	54656	18	28	3.803	2.94	4.2	8	1.19	sedan	0	0	0	0	0	rwd	0	1
+209	Jaguar XJR 4dr	74995	68306	17	24	3.948	3.9	4.2	8	1.19	sedan	0	0	0	0	0	rwd	0	1
+210	Lexus GS 300 4dr	41010	36196	18	25	3.649	2.2	3	6	1.1	sedan	0	0	0	0	0	rwd	0	1
+211	Lexus GS 430 4dr	48450	42232	18	23	3.715	3	4.3	8	1.1	sedan	0	0	0	0	0	rwd	0	1
+212	Lexus LS 430 4dr	55750	48583	18	25	3.99	2.9	4.3	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+213	Lincoln LS V8 Sport 4dr	40095	36809	17	24	3.768	2.8	3.9	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+214	Lincoln LS V8 Ultimate 4dr	43495	39869	17	24	3.768	2.8	3.9	8	1.15	sedan	0	0	0	0	0	rwd	0	1
+215	Lincoln Town Car Signature 4dr	41815	38418	17	25	4.369	2.39	4.6	8	1.18	sedan	0	0	0	0	0	rwd	0	1
+216	Lincoln Town Car Ultimate 4dr	44925	41217	17	25	4.369	2.39	4.6	8	1.18	sedan	0	0	0	0	0	rwd	0	1
+217	Lincoln Town Car Ultimate L 4dr	50470	46208	17	25	4.474	2.39	4.6	8	1.24	sedan	0	0	0	0	0	rwd	0	1
+218	Mercedes-Benz C32 AMG 4dr	52120	48522	16	21	3.54	3.49	3.2	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+219	Mercedes-Benz CL500 2dr	94820	88324	16	24	4.085	3.02	5	8	1.14	sedan	0	0	0	0	0	rwd	0	1
+220	Mercedes-Benz CL600 2dr	128420	119600	13	19	4.473	4.93	5.5	12	1.14	sedan	0	0	0	0	0	rwd	0	1
+221	Mercedes-Benz CLK320 coupe 2dr (convertible)	45707	41966	20	26	3.77	2.15	3.2	6	1.07	sedan	0	0	0	0	0	rwd	0	1
+222	Mercedes-Benz CLK500 coupe 2dr (convertible)	52800	49104	17	22	3.585	3.02	5	8	1.07	sedan	0	0	0	0	0	rwd	0	1
+223	Mercedes-Benz E320 4dr	48170	44849	19	27	3.635	2.21	3.2	6	1.12	sedan	0	0	0	0	0	rwd	0	1
+224	Mercedes-Benz E500 4dr	57270	53382	16	20	3.815	3.02	5	8	1.12	sedan	0	0	0	0	0	rwd	0	1
+225	Mercedes-Benz S430 4dr	74320	69168	18	26	4.16	2.75	4.3	8	1.22	sedan	0	0	0	0	0	rwd	0	1
+226	Mercedes-Benz S500 4dr	86970	80939	16	24	4.39	3.02	5	8	1.22	sedan	0	0	0	0	0	awd	1	0
+227	Saab 9-3 Arc convertible 2dr	40670	38520	21	29	3.48	2.1	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+228	Saab 9-3 Aero convertible 2dr	43175	40883	21	30	3.7	2.1	2	4	1.05	sedan	0	0	0	0	0	fwd	0	0
+229	Volvo C70 LPT convertible 2dr	40565	38203	21	28	3.45	1.97	2.4	5	1.05	sedan	0	0	0	0	0	fwd	0	0
+230	Volvo C70 HPT convertible 2dr	42565	40083	20	26	3.45	2.42	2.3	5	1.05	sedan	0	0	0	0	0	fwd	0	0
+231	Volvo S80 T6 4dr	45210	42573	19	26	3.653	2.68	2.9	6	1.1	sedan	0	0	0	0	0	fwd	0	0
+232	Acura NSX coupe 2dr manual S	89765	79978	17	24	3.153	2.9	3.2	6	1	sports	1	0	0	0	0	rwd	0	1
+233	Audi RS 6 4dr	84600	76417	15	22	4.024	4.5	4.2	8	1.09	sports	1	0	0	0	0	fwd	0	0
+234	Audi TT 1.8 convertible 2dr (coupe)	35940	32512	20	28	3.131	1.8	1.8	4	.95	sports	1	0	0	0	0	fwd	0	0
+235	Audi TT 1.8 Quattro 2dr (convertible)	37390	33891	20	28	2.921	2.25	1.8	4	.96	sports	1	0	0	0	0	awd	1	0
+236	Audi TT 3.2 coupe 2dr (convertible)	40590	36739	21	29	3.351	2.5	3.2	6	.96	sports	1	0	0	0	0	awd	1	0
+237	BMW M3 coupe 2dr	48195	44170	16	24	3.415	3.33	3.2	6	1.08	sports	1	0	0	0	0	rwd	0	1
+238	BMW M3 convertible 2dr	56595	51815	16	23	3.781	3.33	3.2	6	1.08	sports	1	0	0	0	0	rwd	0	1
+239	BMW Z4 convertible 2.5i 2dr	33895	31065	20	28	2.932	1.84	2.5	6	.98	sports	1	0	0	0	0	rwd	0	1
+240	BMW Z4 convertible 3.0i 2dr	41045	37575	21	29	2.998	2.25	3	6	.98	sports	1	0	0	0	0	rwd	0	1
+241	Cadillac XLR convertible 2dr	76200	70546	17	25	3.647	3.2	4.6	8	1.06	sports	1	0	0	0	0	rwd	0	1
+242	Chevrolet Corvette 2dr	44535	39068	18	25	3.246	3.5	5.7	8	1.05	sports	1	0	0	0	0	rwd	0	1
+243	Chevrolet Corvette convertible 2dr	51535	45193	18	25	3.248	3.5	5.7	8	1.05	sports	1	0	0	0	0	rwd	0	1
+244	Chrysler Crossfire 2dr	34495	32033	17	25	3.06	2.15	3.2	6	.95	sports	1	0	0	0	0	rwd	0	1
+245	Ford Mustang 2dr (convertible)	18345	16943	20	29	3.29	1.93	3.8	6	1.01	sports	1	0	0	0	0	rwd	0	1
+246	Ford Mustang GT Premium convertible 2dr	29380	26875	17	25	3.347	2.6	4.6	8	1.01	sports	1	0	0	0	0	rwd	0	1
+247	Ford Thunderbird Deluxe convert w/hardtop 2dr	37530	34483	17	24	3.78	2.8	3.9	8	1.07	sports	1	0	0	0	0	fwd	0	0
+248	Honda S2000 convertible 2dr	33260	29965	20	25	2.835	2.4	2.2	4	.95	sports	1	0	0	0	0	rwd	0	1
+249	Hyundai Tiburon GT V6 2dr	18739	17101	19	26	3.023	1.72	2.7	6	1	sports	1	0	0	0	0	fwd	0	0
+250	Jaguar XK8 coupe 2dr	69995	63756	18	26	3.779	2.94	4.2	8	1.02	sports	1	0	0	0	0	rwd	0	1
+251	Jaguar XK8 convertible 2dr	74995	68306	18	26	3.98	2.94	4.2	8	1.02	sports	1	0	0	0	0	rwd	0	1
+252	Jaguar XKR coupe 2dr	81995	74676	16	23	3.865	3.9	4.2	8	1.02	sports	1	0	0	0	0	rwd	0	1
+253	Jaguar XKR convertible 2dr	86995	79226	16	23	4.042	3.9	4.2	8	1.02	sports	1	0	0	0	0	rwd	0	1
+254	Lexus SC 430 convertible 2dr	63200	55063	18	23	3.84	3	4.3	8	1.03	sports	1	0	0	0	0	rwd	0	1
+255	Mazda MX-5 Miata convertible 2dr	22388	20701	23	28	2.387	1.42	1.8	4	.89	sports	1	0	0	0	0	rwd	0	1
+256	Mazda MX-5 Miata LS convertible 2dr	25193	23285	23	28	2.387	1.42	1.8	4	.89	sports	1	0	0	0	0	rwd	0	1
+257	Mercedes-Benz SL500 convertible 2dr	90520	84325	16	23	4.065	3.02	5	8	1.01	sports	1	0	0	0	0	rwd	0	1
+258	Mercedes-Benz SL55 AMG 2dr	121770	113388	14	21	4.235	4.93	5.5	8	1.01	sports	1	0	0	0	0	rwd	0	1
+259	Mercedes-Benz SL600 convertible 2dr	126670	117854	13	19	4.429	4.93	5.5	12	1.01	sports	1	0	0	0	0	rwd	0	1
+260	Mercedes-Benz SLK230 convertible 2dr	40320	37548	21	29	3.055	1.92	2.3	4	.95	sports	1	0	0	0	0	rwd	0	1
+261	Mercedes-Benz SLK32 AMG 2dr	56170	52289	17	22	3.22	3.49	3.2	6	.95	sports	1	0	0	0	0	rwd	0	1
+262	Mitsubishi Eclipse GTS 2dr	25092	23456	21	28	3.241	2.1	3	6	1.01	sports	1	0	0	0	0	fwd	0	0
+263	Mitsubishi Eclipse Spyder GT convertible 2dr	26992	25218	21	28	3.296	2.1	3	6	1.01	sports	1	0	0	0	0	fwd	0	0
+264	Mitsubishi Lancer Evolution 4dr	29562	27466	18	26	3.263	2.71	2	4	1.03	sports	1	0	0	0	0	fwd	0	0
+265	Nissan 350Z coupe 2dr	26910	25203	20	26	3.188	2.87	3.5	6	1.04	sports	1	0	0	0	0	rwd	0	1
+266	Nissan 350Z Enthusiast convertible 2dr	34390	31845	20	26	3.428	2.87	3.5	6	1.04	sports	1	0	0	0	0	rwd	0	1
+267	Porsche 911 Carrera convertible 2dr (coupe)	79165	69229	18	26	3.135	3.15	3.6	6	.93	sports	1	0	0	0	0	rwd	0	1
+268	Porsche 911 Carrera 4S coupe 2dr (convert)	84165	72206	17	24	3.24	3.15	3.6	6	.93	sports	1	0	0	0	0	awd	1	0
+269	Porsche 911 Targa coupe 2dr	76765	67128	18	26	3.119	3.15	3.6	6	.93	sports	1	0	0	0	0	rwd	0	1
+270	Porsche 911 GT2 2dr	192465	173560	17	24	3.131	4.77	3.6	6	.93	sports	1	0	0	0	0	rwd	0	1
+271	Porsche Boxster convertible 2dr	43365	37886	20	29	2.811	2.28	2.7	6	.95	sports	1	0	0	0	0	rwd	0	1
+272	Porsche Boxster S convertible 2dr	52365	45766	18	26	2.911	2.58	3.2	6	.95	sports	1	0	0	0	0	rwd	0	1
+273	Subaru Impreza WRX 4dr	25045	23022	20	27	3.085	2.27	2	4	.99	sports	1	0	0	0	0	awd	1	0
+274	Subaru Impreza WRX STi 4dr	31545	29130	18	24	3.263	3	2.5	4	1	sports	1	0	0	0	0	awd	1	0
+275	Toyota Celica GT-S 2dr	22570	20363	24	33	2.5	1.8	1.8	4	1.02	sports	1	0	0	0	0	fwd	0	0
+276	Toyota MR2 Spyder convertible 2dr	25130	22787	26	32	2.195	1.38	1.8	4	.97	sports	1	0	0	0	0	rwd	0	1
+277	Cadillac Escaladet	52795	48377	14	18	5.367	2.95	5.3	8	1.16	suv	0	1	0	0	0	fwd	0	0
+278	Cadillac SRX V8	46995	43523	16	21	4.302	3.2	4.6	8	1.16	suv	0	1	0	0	0	fwd	0	0
+279	Chevrolet Suburban 1500 LT	42735	37422	14	18	4.947	2.95	5.3	8	1.3	suv	0	1	0	0	0	fwd	0	0
+280	Chevrolet Tahoe LT	41465	36287	14	18	5.05	2.95	5.3	8	1.16	suv	0	1	0	0	0	awd	1	0
+281	Dodge Durango SLT	32235	29472	15	21	4.987	2.3	4.7	8	1.19	suv	0	1	0	0	0	awd	1	0
+282	Ford Expedition 4.6 XLT	34560	30468	15	19	5	2.32	4.6	8	1.19	suv	0	1	0	0	0	fwd	0	0
+283	GMC Envoy XUV SLE	31890	28922	15	19	4.945	2.75	4.2	6	1.29	suv	0	1	0	0	0	fwd	0	0
+284	CMC Yukon 1500 SLE	35725	31361	16	19	5.042	2.85	4.8	8	1.16	suv	0	1	0	0	0	fwd	0	0
+285	GMC Yukon XL 2500 SLT	46265	40534	13	17	6.133	3.25	6	8	1.3	suv	0	1	0	0	0	awd	1	0
+286	Hummer H2	49995	45815	10	12	6.4	3.16	6	8	1.23	suv	0	1	0	0	0	awd	1	0
+287	Isuzu Ascender S	31849	29977	15	20	4.967	2.75	4.2	6	1.29	suv	0	1	0	0	0	awd	1	0
+288	Lincoln Navigator Luxury	52775	46360	13	18	5.969	3	5.4	8	1.19	suv	0	1	0	0	0	awd	1	0
+289	Nissan Pathfinder Armada SE	33840	30815	13	19	5.013	3.05	5.6	8	1.23	suv	0	1	0	0	0	fwd	0	0
+290	Toyota Sequoia SR5	35695	31827	14	17	5.27	2.4	4.7	8	1.18	suv	0	1	0	0	0	awd	1	0
+291	Acura MDX	36945	33337	17	23	4.451	2.65	3.5	6	1.06	suv	0	1	0	0	0	awd	1	0
+292	BMW X3 3.0i	37000	33873	16	23	4.023	2.25	3	6	1.1	suv	0	1	0	0	0	awd	1	0
+293	BMW X5 4.4i	52195	47720	16	22	4.824	3.25	4.4	8	1.11	suv	0	1	0	0	0	awd	1	0
+294	Buick Rainier	37895	34357	15	21	4.6	2.75	4.2	6	1.13	suv	0	1	0	0	0	awd	1	0
+295	Buick Rendezvous CX	26545	24085	19	26	4.024	1.85	3.4	6	1.12	suv	0	1	0	0	0	fwd	0	0
+296	Chevrolet TrailBlazer LT	30295	27479	16	21	4.425	2.75	4.2	6	1.13	suv	0	1	0	0	0	fwd	0	0
+297	Ford Explorer XLT V6	29670	26983	15	20	4.463	2.1	4	6	1.14	suv	0	1	0	0	0	awd	1	0
+298	Honda Pilot LX	27560	24843	17	22	4.387	2.4	3.5	6	1.06	suv	0	1	0	0	0	awd	1	0
+299	Isuzu Rodeo S	20449	19261	17	21	3.836	1.93	3.2	6	1.06	suv	0	1	0	0	0	fwd	0	0
+300	Jeep Grand Cherokee Laredo	27905	25686	16	21	3.79	1.95	4	6	1.06	suv	0	1	0	0	0	fwd	0	0
+301	Kia Sorento LX	19635	18630	16	19	4.112	1.92	3.5	6	1.07	suv	0	1	0	0	0	fwd	0	0
+302	Land Rover Range Rover HSE	72250	65807	12	16	5.379	2.82	4.4	8	1.13	suv	0	1	0	0	0	awd	1	0
+303	Lexus GX 470	45700	39838	15	19	4.74	2.35	4.7	8	1.1	suv	0	1	0	0	0	awd	1	0
+304	Lexus LX 470	64800	56455	13	17	5.59	2.35	4.7	8	1.12	suv	0	1	0	0	0	awd	1	0
+305	Lexus RX 330	39195	34576	18	24	4.065	2.3	3.3	6	1.07	suv	0	1	0	0	0	awd	1	0
+306	Lincoln Aviator Ultimate	42915	39443	13	18	4.834	3.02	4.6	8	1.14	suv	0	1	0	0	0	fwd	0	0
+307	Mercedes-Benz G500	76870	71540	13	14	5.423	2.92	5	8	1.12	suv	0	1	0	0	0	awd	1	0
+308	Mercedes-Benz ML500	46470	43268	14	17	4.874	2.88	5	8	1.11	suv	0	1	0	0	0	awd	1	0
+309	Mercury Mountaineer	29995	27317	16	21	4.374	2.1	4	6	1.14	suv	0	1	0	0	0	fwd	0	0
+310	Mitsubishi Endeavor XLS	30492	28330	17	21	4.134	2.15	3.8	6	1.09	suv	0	1	0	0	0	awd	1	0
+311	Mitsubishi Montero XLS	33112	30763	15	19	4.718	2.15	3.8	6	1.1	suv	0	1	0	0	0	awd	1	0
+312	Nissan Pathfinder SE	27339	25972	16	21	3.871	2.4	3.5	6	1.06	suv	0	1	0	0	0	fwd	0	0
+313	Pontiac Aztekt	21595	19810	19	26	3.779	1.85	3.4	6	1.08	suv	0	1	0	0	0	fwd	0	0
+314	Porsche Cayenne S	56665	49865	14	18	4.95	3.4	4.5	8	1.12	suv	0	1	0	0	0	awd	1	0
+315	Saturn VUE	20585	19238	21	26	3.381	1.43	2.2	4	1.07	suv	0	1	0	0	0	awd	1	0
+316	Suzuki XL-7 EX	23699	22307	18	22	3.682	1.85	2.7	6	1.1	suv	0	1	0	0	0	fwd	0	0
+317	Toyota 4Runner SR5 V6	27710	24801	18	21	4.035	2.45	4	6	1.1	suv	0	1	0	0	0	fwd	0	0
+318	Toyota Highlander V6	27930	24915	18	24	3.935	2.3	3.3	6	1.07	suv	0	1	0	0	0	awd	1	0
+319	Toyota Land Cruiser	54765	47986	13	17	5.39	3.25	4.7	8	1.12	suv	0	1	0	0	0	awd	1	0
+320	Volkswagen Touareg V6	35515	32243	15	20	5.086	2.2	3.2	6	1.12	suv	0	1	0	0	0	awd	1	0
+321	Volvo XC90 T6	41250	38851	15	20	4.638	2.68	2.9	6	1.13	suv	0	1	0	0	0	awd	1	0
+322	Chevrolet Tracker	20255	19108	19	22	2.866	1.65	2.5	6	.98	suv	0	1	0	0	0	fwd	0	0
+323	Ford Escape XLS	22515	20907	18	23	3.346	2.01	3	6	1.03	suv	0	1	0	0	0	awd	1	0
+324	Honda CR-V LX	19860	18419	21	25	3.258	1.6	2.4	4	1.03	suv	0	1	0	0	0	awd	1	0
+325	Honda Element LX	18690	17334	21	24	3.468	1.6	2.4	4	1.01	suv	0	1	0	0	0	awd	1	0
+326	Hyundai Santa Fe GLS	21589	20201	20	26	3.549	1.73	2.7	6	1.03	suv	0	1	0	0	0	fwd	0	0
+327	Jeep Liberty Sport	20130	18973	20	24	3.826	1.5	2.4	4	1.04	suv	0	1	0	0	0	awd	1	0
+328	Jeep Wrangler Sahara convertible 2dr	25520	23275	16	19	3.575	1.9	4	6	.93	suv	0	1	0	0	0	awd	1	0
+329	Land Rover Discovery SE	39250	35777	12	16	4.576	2.17	4.6	8	1	suv	0	1	0	0	0	awd	1	0
+330	Land Rover Freelander SE	25995	23969	18	21	3.577	1.74	2.5	6	1.01	suv	0	1	0	0	0	awd	1	0
+331	Mazda Tribute DX 2.0	21087	19742	22	25	3.091	1.3	2	4	1.03	suv	0	1	0	0	0	awd	1	0
+332	Mitsubishi Outlander LS	18892	17569	21	27	3.24	1.6	2.4	4	1.03	suv	0	1	0	0	0	fwd	0	0
+333	Nissan Xterra XE V6	20939	19512	17	20	3.76	1.8	3.3	6	1.04	suv	0	1	0	0	0	fwd	0	0
+334	Suzuki Vitara LX	17163	16949	19	22	3.02	1.65	2.5	6	.98	suv	0	1	0	0	0	awd	1	0
+335	Toyota RAV4	20290	18553	22	27	3.119	1.61	2.4	4	.98	suv	0	1	0	0	0	awd	1	0
+336	Audi A6 3.0 Avant Quattro	40840	37060	18	25	4.035	2.2	3	6	1.09	wagon	0	0	1	0	0	awd	1	0
+337	Audi S4 Avant Quattro	49090	44446	15	21	3.936	3.4	4.2	8	1.04	wagon	0	0	1	0	0	awd	1	0
+338	BMW 325xi Sport	32845	30110	19	26	3.594	1.84	2.5	6	1.07	wagon	0	0	1	0	0	awd	1	0
+339	Chevrolet Malibu Maxx LS	22225	20394	22	30	3.458	2	3.5	6	1.12	wagon	0	0	1	0	0	fwd	0	0
+340	Chrysler Pacifica	31230	28725	17	23	4.675	2.5	3.5	6	1.16	wagon	0	0	1	0	0	rwd	0	1
+341	Ford Focus ZTW	17475	16375	26	33	2.702	1.3	2	4	1.03	wagon	0	0	1	0	0	fwd	0	0
+342	Ford Taurus SE	22290	20457	19	26	3.497	1.55	3	6	1.09	wagon	0	0	1	0	0	fwd	0	0
+343	Infiniti FX35	34895	31756	16	22	4.056	2.8	3.5	6	1.12	wagon	0	0	1	0	0	rwd	0	1
+344	Infiniti FX45	36395	33121	15	19	4.309	3.15	4.5	8	1.12	wagon	0	0	1	0	0	awd	1	0
+345	Kia Rio Cinco	11905	11410	26	33	2.447	1.04	1.6	4	.95	wagon	0	0	1	0	0	fwd	0	0
+346	Lexus IS 300 SportCross	32455	28647	18	24	3.41	2.15	3	6	1.05	wagon	0	0	1	0	0	rwd	0	1
+347	Mercedes-Benz C240	33780	31466	19	25	3.47	1.68	2.6	6	1.07	wagon	0	0	1	0	0	rwd	0	1
+348	Mercedes-Benz E320	50670	47174	19	27	3.966	2.21	3.2	6	1.12	wagon	0	0	1	0	0	rwd	0	1
+349	Mercedes-Benz E500	60670	56474	16	24	4.23	3.02	5	8	1.12	wagon	0	0	1	0	0	awd	1	0
+350	Mercury Sable GS	22595	20748	19	26	3.488	1.55	3	6	1.09	wagon	0	0	1	0	0	fwd	0	0
+351	Nissan Murano SL	28739	27300	20	25	3.801	2.45	3.5	6	1.11	wagon	0	0	1	0	0	rwd	0	1
+352	Pontiac Vibe	17045	15973	29	36	2.701	1.3	1.8	4	1.02	wagon	0	0	1	0	0	rwd	0	1
+353	Saab 9-5 Aero	40845	38376	19	29	3.62	2.5	2.3	4	1.06	wagon	0	0	1	0	0	fwd	0	0
+354	Saturn L300 2	23560	21779	24	34	3.109	1.4	2.2	4	1.07	wagon	0	0	1	0	0	fwd	0	0
+355	Scion xB	14165	13480	31	35	2.425	1.08	1.5	4	.98	wagon	0	0	1	0	0	fwd	0	0
+356	Subaru Forester X	21445	19646	21	28	3.09	1.65	2.5	4	.99	wagon	0	0	1	0	0	awd	1	0
+357	Subaru Outback	23895	21773	21	28	3.43	1.65	2.5	4	1.04	wagon	0	0	1	0	0	awd	1	0
+358	Suzuki Aerio SX	16497	16291	24	29	2.932	1.55	2.3	4	.98	wagon	0	0	1	0	0	awd	1	0
+359	Toyota Matrix XR	16695	15156	29	36	2.679	1.3	1.8	4	1.02	wagon	0	0	1	0	0	fwd	0	0
+360	Volkswagen Jetta GL	19005	17427	24	30	3.034	1.15	2	4	.99	wagon	0	0	1	0	0	fwd	0	0
+361	Volkswagen Passat GLS 1.8T	24955	22801	22	31	3.338	1.7	1.8	4	1.06	wagon	0	0	1	0	0	fwd	0	0
+362	Volkswagen Passat W8	40235	36956	18	25	4.067	2.7	4	8	1.06	wagon	0	0	1	0	0	fwd	0	0
+363	Volvo V40	26135	24641	22	29	2.822	1.7	1.9	4	1.01	wagon	0	0	1	0	0	fwd	0	0
+364	Volvo XC70	35145	33112	20	27	3.823	2.08	2.5	5	1.09	wagon	0	0	1	0	0	awd	1	0
+365	Chevrolet Astro	26395	23954	14	17	4.605	1.9	4.3	6	1.11	minivan	0	0	0	1	0	awd	1	0
+366	Chevrolet Venture LS	27020	24518	19	26	3.699	1.85	3.4	6	1.12	minivan	0	0	0	1	0	fwd	0	0
+367	Chrysler Town and Country LX	27490	25371	19	26	4.068	1.8	3.3	6	1.19	minivan	0	0	0	1	0	fwd	0	0
+368	Chrysler Town and Country Limited	38380	35063	18	25	4.331	2.15	3.8	6	1.19	minivan	0	0	0	1	0	fwd	0	0
+369	Dodge Caravan SE	21795	20508	20	26	3.862	1.5	2.4	4	1.13	minivan	0	0	0	1	0	fwd	0	0
+370	Dodge Grand Caravan SXT	32660	29812	18	25	4.44	2.15	3.8	6	1.19	minivan	0	0	0	1	0	awd	1	0
+371	Ford Freestar SE	26930	24498	17	23	4.275	1.93	3.9	6	1.21	minivan	0	0	0	1	0	fwd	0	0
+372	GMC Safari SLE	25640	23215	16	20	4.309	1.9	4.3	6	1.11	minivan	0	0	0	1	0	rwd	0	1
+373	Honda Odyssey LX	24950	22498	18	25	4.31	2.4	3.5	6	1.18	minivan	0	0	0	1	0	fwd	0	0
+374	Honda Odyssey EX	27450	24744	18	25	4.365	2.4	3.5	6	1.18	minivan	0	0	0	1	0	fwd	0	0
+375	Kia Sedona LX	20615	19400	16	22	4.802	1.95	3.5	6	1.15	minivan	0	0	0	1	0	fwd	0	0
+376	Mazda MPV ES	28750	26600	18	25	3.812	2	3	6	1.12	minivan	0	0	0	1	0	fwd	0	0
+377	Mercury Monterey Luxury	33995	30846	16	23	4.34	2.01	4.2	6	1.21	minivan	0	0	0	1	0	fwd	0	0
+378	Nissan Quest S	24780	22958	19	26	4.012	2.4	3.5	6	1.24	minivan	0	0	0	1	0	fwd	0	0
+379	Nissan Quest SE	32780	30019	18	25	4.175	2.4	3.5	6	1.24	minivan	0	0	0	1	0	fwd	0	0
+380	Oldsmobile Silhouette GL	28790	26120	19	26	3.948	1.85	3.4	6	1.2	minivan	0	0	0	1	0	fwd	0	0
+381	Pontiac Montana	23845	21644	19	26	3.803	1.85	3.4	6	1.12	minivan	0	0	0	1	0	fwd	0	0
+382	Pontiac Montana EWB	31370	28454	18	24	4.431	1.85	3.4	6	1.21	minivan	0	0	0	1	0	awd	1	0
+383	Toyota Sienna CE	23495	21198	19	27	4.12	2.3	3.3	6	1.19	minivan	0	0	0	1	0	fwd	0	0
+384	Toyota Sienna XLE Limited	28800	25690	19	27	4.165	2.3	3.3	6	1.19	minivan	0	0	0	1	0	fwd	0	0
+385	Cadillac Escalade EXT	52975	48541	13	17	5.879	3.45	6	8	1.3	pickup	0	0	0	0	1	awd	1	0
+386	Chevrolet Avalanche 1500	36100	31689	14	18	5.678	2.95	5.3	8	1.3	pickup	0	0	0	0	1	awd	1	0
+387	Chevrolet Colorado Z85	18760	17070	18	23	3.623	1.75	2.8	4	1.11	pickup	0	0	0	0	1	awd	1	0
+388	Chevrolet Silverado 1500 Regular Cab	20310	18480	15	21	4.142	2	4.3	6	1.19	pickup	0	0	0	0	1	rwd	0	1
+389	Chevrolet Silverado SS	40340	35399	13	17	4.804	3	6	8	1.44	pickup	0	0	0	0	1	awd	1	0
+390	Chevrolet SSR	41995	39306	16	19	4.76	3	5.3	8	1.16	pickup	0	0	0	0	1	rwd	0	1
+391	Dodge Dakota Regular Cab	17630	16264	16	22	3.714	2.1	3.7	6	1.12	pickup	0	0	0	0	1	rwd	0	1
+392	Dodge Dakota Club Cab	20300	18670	16	22	3.829	2.1	3.7	6	1.31	pickup	0	0	0	0	1	rwd	0	1
+393	Dodge Ram 1500 Regular Cab ST	20215	18076	16	21	4.542	2.15	3.7	6	1.21	pickup	0	0	0	0	1	rwd	0	1
+394	Ford F-150 Regular Cab XL	22010	19490	15	19	4.788	2.31	4.6	8	1.26	pickup	0	0	0	0	1	rwd	0	1
+395	Ford F-150 Supercab Lariat	33540	29405	14	18	5.464	3	5.4	8	1.33	pickup	0	0	0	0	1	awd	1	0
+396	Ford Ranger 2.3 XL Regular Cab	14385	13717	24	29	3.028	1.43	2.3	4	1.11	pickup	0	0	0	0	1	rwd	0	1
+397	GMC Canyon Z85 SL Regular Cab	16530	14877	19	24	3.351	1.75	2.8	4	1.11	pickup	0	0	0	0	1	rwd	0	1
+398	GMC Sierra Extended Cab 1500	25717	22604	17	20	4.548	2.85	4.8	8	1.44	pickup	0	0	0	0	1	rwd	0	1
+399	GMC Sonoma Crew Cab	25395	23043	15	19	4.083	1.9	4.3	6	1.23	pickup	0	0	0	0	1	awd	1	0
+400	Mazda B2300 SX Regular Cab	14840	14070	24	29	2.96	1.43	2.3	4	1.12	pickup	0	0	0	0	1	rwd	0	1
+401	Mazda B4000 SE Cab Plus	22350	20482	15	19	3.571	2.07	4	6	1.26	pickup	0	0	0	0	1	awd	1	0
+402	Nissan Frontier King Cab XE V6	19479	18253	17	20	3.932	1.8	3.3	6	1.16	pickup	0	0	0	0	1	awd	1	0
+403	Nissan Titan King Cab XE	26650	24926	14	18	5.287	3.05	5.6	8	1.4	pickup	0	0	0	0	1	awd	1	0
+404	Subaru Baja	24520	22304	21	28	3.485	1.65	2.5	4	1.04	pickup	0	0	0	0	1	awd	1	0
+405	Toyota Tacoma	12800	11879	22	27	2.75	1.42	2.4	4	1.03	pickup	0	0	0	0	1	rwd	0	1
+406	Toyota Tundra Regular Cab V6	16495	14978	16	20	3.925	1.9	3.4	6	1.28	pickup	0	0	0	0	1	rwd	0	1
+407	Toyota Tundra Access Cab V6 SR5	25935	23520	14	17	4.435	1.9	3.4	6	1.28	pickup	0	0	0	0	1	awd	1	0
