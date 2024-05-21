@@ -1,3 +1,3 @@
 # 2020_Business_Analysis
 
-Here are some source codes for the course Business Analysis.
+Here are the source codes for the Business Analysis course.
